@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @riyan2020
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning java, JS, and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on AI Based Chat BOt.
+- 📫 You can contact me at rn7msd@gmail.com .
 
 <!---
 riyan2020/riyan2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
