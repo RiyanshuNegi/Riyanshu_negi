@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riyan2020
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning java, JS, and Python
-- 💞️ I’m looking to collaborate on AI Based Chat BOt.
+- 💞️ I’m looking to collaborate on Driver Sleepriness detection system.
 - 📫 You can contact me at rn7msd@gmail.com .
 
 <!---
